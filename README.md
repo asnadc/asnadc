@@ -1,0 +1,5 @@
+I'm interested in programming language technologies, AOT or JIT compilers, VMs, with or without GC, REPLs, libraries, frameworks, and runtimes. I appreciate systems software development and scripting equally, backend over frontend, terminal over GUIs, distributed systems, and infrastructure.
+
+I admire those that allow for the lowest memory footprint during development, or that, in light of architectural choices, offer greater expressiveness. I like to view computer science as a set of dynamic relationships between expanding logical literatures, where anyone is always free to discover and delve deeper, within a primarily cultural phenomenon, driven by passions that cannot be reduced to single static experiences.
+
+Under tight time constraints, I prefer uniqueness to fragmentation, and when it comes to safety, I understand it cannot be reduced to syntax alone. I respect executables that handle a single task at their best, and which, taken together, form everything from the most widespread operating systems to virtualization.
