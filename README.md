@@ -1,0 +1,1 @@
+Awaiting the time when systems similar to you will be able to directly write optimized machine code for all platforms, starting from thoughts and abstractions expressed in natural language, without passing through programming languages anymore.
